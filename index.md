@@ -17,9 +17,9 @@
 
 ---
 
-### Category Name 2
+### Certifications
 
-- [Project 1 Title](http://example.com/)
+- [Fundamentals of digital Marketing](https://github.com/juliansmidek/juliansmidek.github.io/blob/main/files/certificate.pdf)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
